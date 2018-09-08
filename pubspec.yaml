@@ -12,3 +12,5 @@ environment:
 
 dev_dependencies:
   test: ^1.0.0
+  build_runner: ^0.10.0
+  build_web_compilers: ^0.4.0
